@@ -1,7 +1,8 @@
 repo_name: swadhin1515/explore
 report_id: 64b2e228b13b643b2cb3842ec5458eec
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T06:27:27+00:00'
+timestamp: '2024-01-05T08:58:49+00:00'
 requested_by: smashwilson
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/service/1746/no-img-open-source.png
+  detection_source_url: https://github.com/swadhin1515/explore
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -27,8 +29,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
-  detection_source_url: ".ruby-version"
-  detection_source: ".ruby-version"
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/.ruby-version
+  detection_source: Repo Metadata
   last_updated_by: Justin Kenyon
   last_updated_on: 2022-04-22 15:02:39.000000000 Z
 - name: Git
@@ -39,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/swadhin1515/explore
   detection_source: Repo Metadata
 - name: GitHub
   description: Powerful collaboration, review, and code management for open source
@@ -49,6 +52,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Collaboration & Version Control
   image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Sarah Vessels
   last_updated_on: 2017-09-28 20:03:27.000000000 Z
@@ -60,7 +64,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/test.yml"
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/.github/workflows/collections-renames.yml
+  detection_source: ".github/workflows/collections-renames.yml"
   last_updated_by: Justin Kenyon
   last_updated_on: 2022-06-30 08:47:28.000000000 Z
 - name: Octokit
@@ -71,6 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Tools for GitHub
   image_url: https://img.stackshare.io/service/9827/octokit-dotnet_2.png
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Justin Kenyon
   last_updated_on: 2022-04-22 19:39:09.000000000 Z
@@ -83,6 +89,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/2643/rubocop.png
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Sarah Vessels
   last_updated_on: 2017-09-28 20:03:27.000000000 Z
@@ -94,6 +101,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Sarah Vessels
   last_updated_on: 2017-09-28 20:03:27.000000000 Z
@@ -107,6 +115,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19239/default_c4ed1d3f735f11415ee5d02b5a5ba48490465220.png
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Justin Kenyon
   last_updated_on: 2022-04-22 19:39:09.000000000 Z
@@ -119,6 +128,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18832/default_8c2fa81d8b8e48c679685199823ce30d598d3e87.png
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Lint Action
   last_updated_on: 2022-07-20 11:03:18.000000000 Z
@@ -132,6 +142,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18818/default_f36df1cfa9ff6061d7f9b4879088be8538581c49.png
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Justin Kenyon
   last_updated_on: 2022-04-22 19:39:09.000000000 Z
@@ -144,6 +155,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18815/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Sarah Vessels
   last_updated_on: 2017-09-28 20:03:27.000000000 Z
@@ -156,6 +168,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/18812/default_f582e4648f4682adb72d2b201218cda7f8e894ac.png
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Sarah Vessels
   last_updated_on: 2017-09-28 20:08:40.000000000 Z
@@ -169,6 +182,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19003/default_ed0106f3a65a9fdb4ffde124a531663be2de70ba.png
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Justin Kenyon
   last_updated_on: 2019-05-06 15:25:41.000000000 Z
@@ -181,6 +195,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19221/default_b7db538e9852f98777d0e0bd76581546262ce92e.png
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Justin Kenyon
   last_updated_on: 2022-04-22 19:39:09.000000000 Z
@@ -194,6 +209,7 @@ tools:
   category: Libraries
   sub_category: RubyGems Packages
   image_url: https://img.stackshare.io/package/19444/default_e747a715ce0379afdb68c78657d70e4a512bf5f4.png
+  detection_source_url: https://github.com/swadhin1515/explore/blob/main/Gemfile
   detection_source: Gemfile
   last_updated_by: Justin Kenyon
   last_updated_on: 2022-04-22 19:34:39.000000000 Z
