@@ -3,12 +3,12 @@
 ## Tech Stack
 swadhin1515/explore is built on the following main stack:
 
-- [GitHub](https://github.com/) – Code Collaboration & Version Control
-- [Ruby](https://www.ruby-lang.org) – Languages
 - [Liquid](https://shopify.github.io/liquid) – Templating Languages & Extensions
-- [RuboCop](http://batsov.com/rubocop/) – Code Review
-- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [GitHub](https://github.com/) – Code Collaboration & Version Control
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- [RuboCop](http://batsov.com/rubocop/) – Code Review
 
 Full tech stack [here](/techstack.md)
 
@@ -18,12 +18,12 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 swadhin1515/explore is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg' alt='GitHub'/> [GitHub](https://github.com/) – Code Collaboration & Version Control
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1746/no-img-open-source.png' alt='Liquid'/> [Liquid](https://shopify.github.io/liquid) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/2643/rubocop.png' alt='RuboCop'/> [RuboCop](http://batsov.com/rubocop/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg' alt='GitHub'/> [GitHub](https://github.com/) – Code Collaboration & Version Control
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/9827/octokit-dotnet_2.png' alt='Octokit'/> [Octokit](https://github.com/octokit/octokit.net) – Tools for GitHub
+- <img width='25' height='25' src='https://img.stackshare.io/service/2643/rubocop.png' alt='RuboCop'/> [RuboCop](http://batsov.com/rubocop/) – Code Review
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [swadhin1515/explore](https://github.com/swadhin1515/explore)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|16<br/>Tools used|01/05/24 <br/>Report generated|
+|16<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
